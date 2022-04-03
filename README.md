@@ -5,9 +5,9 @@
 Project member: Qichao Jiang, Yuesheng Luo, Toshiko Shibano, Andrew Stich<br>
 (listed in alphabetical order)
 
-Welcome to our corpus app! 
+# Welcome to our corpus app! 
 
-[First, please download the Docker tar from here](https://drive.google.com/drive/folders/1E0s_J8NqdTsWuOHyqr2rWPyTSXXbEP3r?usp=sharing).
+First, please download the Docker tar from [here](https://drive.google.com/drive/folders/1E0s_J8NqdTsWuOHyqr2rWPyTSXXbEP3r?usp=sharing).
 
 To get things going, please start Docker Desktop. Then in your CLI, navigate to the directory where you saved our tar file and run the following docker commands.
 ```
@@ -28,4 +28,4 @@ On your browser, type in `http://localhost:8000` to access our app.
 
 5. Finally, click `Pictures` to ponder upon the climate change.. the beauty and scars of our planet earth and what actions can be taken.
 
-### Overall, our team had lots of fun working on this project. Thank you for taking the time to check out our corpus. Hope you will enjoy!!
+#### Overall, our team had lots of fun working on this project. Thank you for taking the time to check out our corpus. Hope you will enjoy!!
