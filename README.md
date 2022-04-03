@@ -2,10 +2,14 @@
 <img src="image/banner_app.png" alt="Reddit Climate Change App"/>
 </p>
 
-Welcome to our corpus app! 
-[Please download the Docker tar from here](https://drive.google.com/drive/folders/1E0s_J8NqdTsWuOHyqr2rWPyTSXXbEP3r?usp=sharing)
+Project member: Qichao Jiang, Yuesheng Luo, Toshiko Shibano, Andrew Stich<br>
+(listed in alphabetical order)
 
-To get things going, please first start Docker Desktop. Then in your CLI, navigate to the directory where you saved our tar file and run the following docker commands.
+Welcome to our corpus app! 
+
+[First, please download the Docker tar from here](https://drive.google.com/drive/folders/1E0s_J8NqdTsWuOHyqr2rWPyTSXXbEP3r?usp=sharing).
+
+To get things going, please start Docker Desktop. Then in your CLI, navigate to the directory where you saved our tar file and run the following docker commands.
 ```
 docker load --input fastapi-web-starter.tar
 docker run --publish 8000:8000 fastapi-web-starter
